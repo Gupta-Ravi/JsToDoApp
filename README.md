@@ -9,6 +9,11 @@ Welcome to the **To-Do App** project! This is a simple yet elegant web applicati
 - **Remove Tasks**: Easily remove tasks that are no longer needed.
 - **Local Storage**: Your tasks are saved in the browser's local storage, so they persist even after refreshing the page.
 
+## 🌐 Visit App
+
+You can view a live demo of the app [here](https://gupta-ravi.github.io/JsToDoApp/).
+
+
 ## 🛠️ Technologies Used
 
 - **HTML**: The structure of the app.
