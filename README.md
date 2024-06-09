@@ -2,8 +2,6 @@
 
 Welcome to the **To-Do App** project! This is a simple yet elegant web application that allows you to manage your daily tasks effortlessly. Built with HTML, CSS, and JavaScript, it features a clean design and intuitive user interface.
 
-![To-Do App](images/screenshot.png)
-
 ## 🚀 Features
 
 - **Add Tasks**: Quickly add new tasks to your to-do list.
@@ -39,17 +37,22 @@ Welcome to the **To-Do App** project! This is a simple yet elegant web applicati
     ```
 2. **Open `index.html` in your Browser**
 
+## 📺 Tutorial
+
+For a step-by-step tutorial on building this To-Do App, check out the video [here](https://youtu.be/G0jO8kUrg-I?si=_WOzdKNtL7RAN3Yv).
+
+
 ## 📸 Screenshots
 
 ![App Screenshot](images/screenshot.png)
 
 ## 👏 Contributing
 
-Feel free to contribute to this project by submitting issues or pull requests. Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
+Feel free to contribute to this project by submitting issues or pull requests.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
